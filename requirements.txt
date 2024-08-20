@@ -57,3 +57,6 @@ websockets==10.4
 janus==1.0.0
 
 ast-comments==1.0.1
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
